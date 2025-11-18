@@ -1,9 +1,3 @@
-That's a great idea\! Putting your data structures programs on GitHub is perfect for showing off your skills.
-
-Here are comprehensive and well-structured README file contents that you can use, including sections for the project overview, the files, and how to use them.
-
------
-
 ## 💾 Data Structures C Programs (Engineering Semester 3)
 
 This repository contains my collection of **C programming language** implementations for fundamental **Data Structures**, created as part of my **Engineering Semester 3** curriculum.
@@ -53,7 +47,6 @@ Follow these steps for a typical program, using `stack.c` as an example:
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/aradhya0507/Data-Structures.git
-    cd your-repo-name
     ```
 2.  **Compile the file:**
     ```bash
